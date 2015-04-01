@@ -12,6 +12,7 @@ In the future, I hope to combine my background in the life sciences and healthca
 
 * writing and recording music
 * weightlifting
+* enjoying the sun
 
 ### Programming Background
 
