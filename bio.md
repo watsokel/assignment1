@@ -14,3 +14,8 @@ In the future, I hope to combine my background in the life sciences and healthca
 * weightlifting
 
 ### Programming Background
+
+* C++ programming
+	* Successfully completed CS 161 and CS 162
+	* Favorite project: Conway's Game of Life
+* HTML and CSS
